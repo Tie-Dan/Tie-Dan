@@ -7,12 +7,7 @@
 <a href="#415045745">
   <img align="left" alt="415045745" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
 </a>
-<a href="https://www.zhihu.com/people/132yse">
-  <img align="left" alt="132yse" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/zhihu.svg" />
-</a>
-<a href="https://github.com/yisar">
-  <img align="left" alt="yisar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
